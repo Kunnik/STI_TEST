@@ -4,5 +4,5 @@ Sed luctus erat sit amet diam varius, eu iaculis sem venenatis.
 In nec augue aliquam.
 Quisque finibus arcu.
 Duis in justo nec est elementum mollis eu porttitor massa.
-Sed tempor dui consectetur, pharetra mi et, faucibus ligula.
-Nulla vestibulum augue id dolor congue, eget vestibulum lacus pulvinar.
+Sed tempor dui consectetur, pharetra mi et.
+Nulla vestibulum augue id.

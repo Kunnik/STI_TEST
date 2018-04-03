@@ -5,6 +5,3 @@ Sed tempor dui consectetur, pharetra mi et, faucibus ligula.
 Nulla vestibulum augue id dolor congue, eget vestibulum lacus pulvinar.
 Etiam et est vitae magna egestas dignissim.
 Vestibulum pretium leo blandit erat condimentum congue.
-Morbi pellentesque nisl vitae lectus varius, pulvinar aliquam velit eleifend.
-Phasellus cursus velit eget dapibus accumsan.
-Curabitur sed elit consectetur, suscipit tellus ut, semper urna.
