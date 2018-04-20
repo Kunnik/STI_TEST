@@ -6,3 +6,6 @@ jícího se "Tady bude text. Tady bude text..." mnohem více čitelnějším. V 
 šní době je Lorem Ipsum používáno spoustou DTP balíků a we
 bových editorů coby výchozí model výplňového textu. Ostatně 
 si zkuste zadat frázi "lorem ipsum" do vyhledavače a sami uvidíte. Běh
+šní době je Lorem Ipsum používáno spoustou DTP balíků a we
+bových editorů coby výchozí model výplňového textu. Ostatně 
+si zkuste zadat frázi "lorem ipsum" do vyhledavače a sami uvidíte. Běh

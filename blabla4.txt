@@ -5,3 +5,6 @@ nické sazby v podstatě beze změny. Nejvíce popularizováno bylo Lorem
 Ipsum v šedesátých letech 20. století, kdy byly vydávány speciální vzorníky s je
 ho pasážemi a později pak díky počítačovým DTP programům jako Aldus 
 PageMaker.
+šní době je Lorem Ipsum používáno spoustou DTP balíků a we
+bových editorů coby výchozí model výplňového textu. Ostatně 
+si zkuste zadat frázi "lorem ipsum" do vyhledavače a sami uvidíte. Běh
