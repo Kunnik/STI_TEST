@@ -1,0 +1,8 @@
+ozptylován okolním textem, pokud mu dává nějaký smysl. Úko
+lem Lorem Ipsum je pak nahradit klasický smysluplný text vho
+dnou bezvýznamovou alternativou s rela
+tivně běžným rozložením slov. To jej dělá narozdíl od opaku
+jícího se "Tady bude text. Tady bude text..." mnohem více čitelnějším. V dne
+šní době je Lorem Ipsum používáno spoustou DTP balíků a we
+bových editorů coby výchozí model výplňového textu. Ostatně 
+si zkuste zadat frázi "lorem ipsum" do vyhledavače a sami uvidíte. Běh
