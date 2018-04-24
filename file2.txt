@@ -10,8 +10,3 @@ Duis in justo nec est elementum mollis eu porttitor massa.
 Sed tempor dui consectetur, pharetra mi et, faucibus ligula.
 Nulla vestibulum augue id dolor congue, eget vestibulum lacus pulvinar.
 Etiam et est vitae magna egestas dignissim.
-Vestibulum pretium leo blandit erat condimentum congue.
-Sed tempor dui consectetur, pharetra mi et, faucibus ligula.
-Nulla vestibulum augue id dolor congue, eget vestibulum lacus pulvinar.
-Etiam et est vitae magna egestas dignissim.
-Vestibulum pretium leo blandit erat condimentum congue.
