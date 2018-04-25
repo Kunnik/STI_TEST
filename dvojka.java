@@ -19,6 +19,18 @@
     }
 
     public String getDate() {
+        return date.get();rty(date);
+        this.username = new SimpleStringProperty(username);
+        this.message = new SimpleStringProperty(filename);
+    }
+
+    public String getDate() {
+        return date.get();rty(date);
+        this.username = new SimpleStringProperty(username);
+        this.message = new SimpleStringProperty(filename);
+    }
+
+    public String getDate() {
         return date.get();
     }
 
