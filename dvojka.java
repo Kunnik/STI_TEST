@@ -18,6 +18,16 @@
     private final SimpleStringProperty username;
     private final SimpleStringProperty message;
 
+/*
+    private final SimpleStringProperty date;
+    private final SimpleStringProperty username;
+    private final SimpleStringProperty message;
+
+/*
+    private final SimpleStringProperty date;
+    private final SimpleStringProperty username;
+    private final SimpleStringProperty message;
+
     public TableCommit(String date, String username, String filename) {
         this.date = new SimpleStringProperty(date);
         this.username = new SimpleStringProperty(username);
