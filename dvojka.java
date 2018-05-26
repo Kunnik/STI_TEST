@@ -8,16 +8,6 @@
 
     public TableCommit(String date, String username, String
     private final SimpleStringProperty date;
-    private final SimpleStringProperty username;
-    private final SimpleStringProperty message;
-
-/*
-    private final SimpleStringProperty date;
-    private final SimpleStringProperty username;
-    private final SimpleStringProperty mesasdasdsasage;
-
-    private final SimpleStringProperty mesasdasdsasage;
-
 
     public TableCommit(String date, String username, String filename) {
         this.date = new SimpleStringProperty(date);
