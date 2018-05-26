@@ -22,6 +22,20 @@
         this.message = new SimpleStringProperty(filename);
     }
 
+
+    public TableCommit(String date, String username, String filename) {
+        this.date = new SimpleStringProperty(date);
+        this.username = new SimpleStringProperty(username);
+        this.message = new SimpleStringProperty(filename);
+    }
+
+    public TableCommit(String date, String username, String filename) {
+        this.date = new SimpleStringProperty(date);
+        this.username = new SimpleStringProperty(username);
+        this.message = new SimpleStringProperty(filename);
+    }
+
+
 /*
     private final SimpleStringProperty date;
     private final SimpleStringProperty username;
